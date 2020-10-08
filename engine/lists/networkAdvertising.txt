@@ -189,7 +189,6 @@
 ||weborama.com^$third-party
 ||liveintent.com^$third-party
 ||digitru.st^$third-party
-||amazonaws.com^$third-party
 ||permodo.com^$third-party
 ||adtiming.com^$third-party
 ||fyber.com^$third-party
@@ -289,7 +288,6 @@
 ||home.neustar^$third-party
 ||yhmg.com^$third-party
 ||carbondmp.com^$third-party
-||amazonaws.com^$third-party
 ||wordpress.com^$third-party
 ||fidelity-media.com^$third-party
 ||sub2tech.com^$third-party
